@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Wed Nov 22 15:15:28 IST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-e31e-357d-0000011f7210 
-on database directory memory:C:\Users\user\Documents\workspace-sts-3.9.1.RELEASE\spring-jpa\testdb with class loader sun.misc.Launcher$AppClassLoader@139a55 
-Loaded from file:/C:/Users/user/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+Wed Nov 22 19:15:44 IST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-e3fa-2d1e-0000161a5128 
+on database directory memory:C:\Users\user\Documents\workspace-sts-3.9.1.RELEASE\spring-jpa\testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@1be6f5c3 
+Loaded from jar:file:/C:/Users/user/Documents/workspace-sts-3.9.1.RELEASE/spring-jpa/target/Springboot-with-data-jpa-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.13.1.1.jar!/
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_151-b12
 user.dir=C:\Users\user\Documents\workspace-sts-3.9.1.RELEASE\spring-jpa
 os.name=Windows 7
-os.arch=x86
+os.arch=amd64
 os.version=6.1
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''

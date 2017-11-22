@@ -16,6 +16,11 @@ public class controllerTopic {
 	@Autowired
 	private TopicService topicservice;
 	
+	@RequestMapping("/")
+	public String Home()  {
+		return "Welcome to Spring Boot Application with JPA";
+		}
+	
 	@RequestMapping("/topics")
 	public List<Topic> returnTopics() {
 		return topicservice.getAllTopics();
